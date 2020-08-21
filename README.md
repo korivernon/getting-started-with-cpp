@@ -11,6 +11,24 @@ There are so many ways to C++ on your machine. C++ is different than Python in t
 
 If you choose to use XCode or VSCode, you can run your code inside of your code editor. Or, you could use an external terminal to do so. C++ is compiled differently than a higher level programming language such as Python. This is a little difficult to grasp if your first language is Python, however, once you are comfortable with how to test your code, everything else comes very naturally *(that's pretty much the case with every programming language)*!
 
+<a name="install"></a>
+
 ## Installation
 
+### Vim (unpopular but my favorite)
+
+Vim is probably the least popular option, but it is my favorite. It's completely personalized and once you get over the learning curve, it's faster (in industry... probably not in class).
+
+### XCode (Mac OS)
+
+If you are on Mac OS, you **have** to install XCode. 
+
 If you want to use XCode (must be on Mac OS), click [here](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
+
+### VSCode
+
+If you want to use VSCode (and you are on Mac), you first have to download XCode. Download XCode, and then Donwload VSCode. Click [here](https://code.visualstudio.com/) to download VSCode. 
+
+<a name="runcode"></a>
+
+## Running Your Code
