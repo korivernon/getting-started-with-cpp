@@ -4,9 +4,8 @@ This is going to be an installation guide for getting started with C++!
 
 **Topics Covered**
 
-1.[Installation](#install)
-
-2.[Running Your Code](#runcode)
+1. [Installation](#install)
+2. [Running Your Code](#runcode)
 
 There are so many ways to C++ on your machine. C++ is different than Python in the sense that there may not always be a built in compiler inside of your code editor.
 
