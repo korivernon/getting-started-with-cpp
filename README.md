@@ -27,7 +27,7 @@ If you want to use XCode (must be on Mac OS), click [here](https://apps.apple.co
 
 ### VSCode
 
-If you want to use VSCode (and you are on Mac), you first have to download XCode. Download XCode, and then Donwload VSCode. Click [here](https://code.visualstudio.com/) to download VSCode. 
+If you want to use VSCode (and you are on Mac), you first have to download XCode. Download XCode, and then Donwload VSCode. Otherwise, click [here](https://code.visualstudio.com/) to download VSCode and select your operating system.
 
 <a name="runcode"></a>
 
