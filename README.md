@@ -25,11 +25,11 @@ Open your terminal, and copy and paste this.
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+After brew is installed, copy and past this into your terminal
+
 ```out
-brew update
-brew upgrade
-brew info gcc
-brew install gcc
+brew info gpp
+brew install gpp
 ```
 ### Vim (unpopular but my favorite)
 
