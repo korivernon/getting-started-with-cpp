@@ -15,6 +15,20 @@ If you choose to use XCode or VSCode, you can run your code inside of your code 
 
 ## Installation
 
+Install the C++ compiler, gpp. 
+
+First, I would install `brew`
+```out
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    echo "'brew' Successfully Installed! - exiting"
+```
+
+```out
+brew update
+brew upgrade
+brew info gcc
+brew install gcc
+```
 ### Vim (unpopular but my favorite)
 
 Vim is probably the least popular option, but it is my favorite. It's completely personalized and once you get over the learning curve, it's faster (in industry... probably not in class).
