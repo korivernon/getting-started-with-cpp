@@ -35,6 +35,22 @@ brew install gpp
 
 Vim is probably the least popular option, but it is my favorite. It's completely personalized and once you get over the learning curve, it's faster (in industry... probably not in class).
 
+Open your terminal and copy and paste this line below:
+
+```brew install vim```
+
+***I would also install Ultimate vimrc because it makes vim more palatable.***
+
+(Optional but recommended) If git is not installed, then use brew to install git. 
+
+```brew install git```
+
+Clone the vimrc files. 
+
+```git clone https://github.com/amix/vimrc.git ~/.vim_runtime```
+
+For more information on how to update the file and install other versions, visit [this](https://sourabhbajaj.com/mac-setup/Vim/README.html) website. 
+
 ### XCode (Mac OS)
 
 If you are on Mac OS, you **have** to install XCode. 
