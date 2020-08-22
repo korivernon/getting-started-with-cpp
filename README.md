@@ -18,9 +18,11 @@ If you choose to use XCode or VSCode, you can run your code inside of your code 
 Install the C++ compiler, gpp. 
 
 First, I would install `brew`
+
+Open your terminal, and copy and paste this. 
+
 ```out
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    echo "'brew' Successfully Installed! - exiting"
 ```
 
 ```out
